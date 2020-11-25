@@ -6,7 +6,7 @@ const Footer = ()=>{
         <div>
             <div className={s.container}>
                 <div className={s.co}>
-                    <p className={s.tt}>Contacto</p>
+                    <p className={s.tt}>Contactos</p>
                     <div><p>+52 668 245 3469</p>
                     <p>pconocimientosmx@gmail.com</p></div>
 
@@ -33,7 +33,6 @@ const Footer = ()=>{
                     <li><Link href="contact"><a>Información </a></Link></li>
                     <li><Link href="licensing"><a>Software  </a></Link></li>
                     <li><Link href="courses"><a>Cursos</a></Link></li>
-         
                     </ul>
                 </div>
             </div>
