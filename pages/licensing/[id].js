@@ -3,7 +3,7 @@ import licencias from './licencias.json';
 
 const Licen = ()=>{
     const router = useRouter();
-    const l = licencias.filter((e)=> e.name == router.query.id)[0];
+    const l = licencias.filter((e)=> e.name.trim() == router.query.id.trim())[0];
     console.log(l)
     return(
         <div>
