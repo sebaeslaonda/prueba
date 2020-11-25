@@ -21,8 +21,7 @@ const Mainb = ()=>{
                     <div className={s.work}>
                             <div className={s.courses}>
                                 <Link href="courses"><p className={s.coursesp}>Cursos</p></Link>
-                                <div className={s.ds}><p className={s.pp}>Los cursos que te enviamos son una serie de carpetas que
-                                     contienen los videos del curso que deseas tomar, te lo enviamos por teamviewer puedes descargarlo por un link que te daremos </p>
+                                <div className={s.ds}><p className={s.pp}>Los cursos se transfieren por carpetas que contienen videos del curso de que deseas tomar, lo unico que tiene que hacer es contactarnos para que nos envíen su email y mandarles el acceso a una carpeta en Drive</p>
                                     </div>
                             </div>
                             <div className={s.licensing}>

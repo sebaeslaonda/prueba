@@ -1,5 +1,13 @@
 [
     {
+        "name":"Adobe Acrobat Pro 2020",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg"
+    },
+    {
+        "name":"Adobe Muse 2018",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Adobe_Muse_CC_icon.svg"
+    },
+    {
         "name":"Adobe Animate 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Animate_CC_icon_%282020%29.svg"
     },
@@ -176,71 +184,47 @@
         "img":"https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"3ds Max 2021",
+        "img":"https://i.pinimg.com/564x/94/c8/70/94c8706d0c1a367d998d77d7ba230038.jpg"
     },
     {
-        "name":"",
-        "img":""
+        "name":"AutoCAD Civil 3D",
+        "img":"https://img.icons8.com/color/452/autodesk-civil-3d.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"AutoCAD 2021",
+        "img":"https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"AutoDesk MAYA",
+        "img":"https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"Lumion Pro",
+        "img":"https://lumion.com/wp-content/uploads/company_logos/lumion_logo_2016_twocolors.svg"
     },
     {
-        "name":"",
-        "img":""
+        "name":"CorelCad",
+        "img":"https://lh3.googleusercontent.com/proxy/RnuVgFKzWVJjduiHlkzgnAV5B0Vb7YkT_6VEX3DYIWcHW-_y42br6lQ3bG7G3VeAMmblS1Yx-bf6LtNCJrkuJGM4amBCwmGPCutq4w4MQq3gHqTVPP1XHLB0Sg"
     },
     {
-        "name":"",
-        "img":""
+        "name":"Corel Aftershot Pro",
+        "img":"https://www.aftershotpro.com/static/asp/images/products/aftershot/aftershot-pro-3.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"Cinema 4D Studio",
+        "img":"https://i.pinimg.com/originals/4b/69/6f/4b696fd5c128bb44d2ea597711f90f7f.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"Wondershare Filmora Video Editor",
+        "img":"https://img.icons8.com/nolan/452/filmora.png"
     },
     {
-        "name":"",
-        "img":""
+        "name":"Vray for Sketchup",
+        "img":"https://i.ibb.co/18V3Qh2/V-Ray-Sketch-Up-logo-B.png"
     },
     {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
-    },
-    {
-        "name":"",
-        "img":""
+        "name":"Adobe ",
+        "img":"https://1000marcas.net/wp-content/uploads/2020/01/Adobe-simbolo.jpg"
     }
 ]

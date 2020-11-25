@@ -5,7 +5,6 @@ import Link from 'next/link';
 const Fe = ()=>{
     return(
         <div className={s.container}>
-        
             <div className={s.contain}>
                 <div className={s.in}>
                     <p className={s.intt}>Softwares online</p>
@@ -16,7 +15,8 @@ const Fe = ()=>{
                 {
                     licencias.map((info)=>
                         <div className={s.licen} key={info.name}>
-                            <Link href={`licensing/${info.name}`}><img className={s.img} src={info.img}/></Link>
+                            {}
+                            <Link href={`licensing/${info.name}`}><img className={info.id === 12 ? s.adobe : s.img} src={info.img}/></Link>
                             <Link href={`licensing/${info.name}`}><p className={s.licent}>{info.name}</p></Link>
                         </div>
                     )

@@ -8,8 +8,7 @@ const Lop = ()=>{
                 <div className={s.uno}>
                     <div className={s.relleno}>
                         <p className={s.rtt}>¿Que hago para comprarlo?</p>
-                        <p>Si decides comprar nuestros cursos o licencias solo contactate con nosotros y nos encargamos del resto,
-                            todos los detalles de pago serán dichos por interno para mayor confianza y comunicación, la atención es inmediata
+                        <p>Si decides comprar nuestros cursos o licencias solo contactate con nosotros y nos encargamos del resto, Para los detalles del pago contactanos para que preguntes por cualquier software
                         </p>
                     </div>
                     <div className={s.where}>

@@ -28,7 +28,7 @@
 }
 
 .img{
-    height: 90px;
+    height: 56%;
     cursor: pointer;
     transition: .34s;
     overflow:hidden;
@@ -92,4 +92,9 @@
 .poi{
    color: #4e4e4e;
    font-size:17px
+}
+
+.adobe{
+   width: 170px;
+   
 }
