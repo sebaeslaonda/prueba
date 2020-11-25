@@ -1,13 +1,14 @@
+import Navbar from '../../components/navbar/nav';
 import Head from 'next/head';
-import Navbar from '../components/navbar/nav';
-import Body from '../components/body/mainb';
-import Footer from '../components/footer/footer';
+import Body from './body'
+import Footer from '../../components/footer/footer';
 
 function Main(){
+
     return(
         <main>
             <Head>
-                <title>Software Licenses</title>
+                <title>Licensing</title>
             </Head>
             <Navbar />
             <Body />

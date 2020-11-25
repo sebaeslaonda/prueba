@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.container{
+    background:#ffffff;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    font-family: 'Oswald', sans-serif;
+    justify-content:center;
+    align-items: center
+}
+.contain{
+    margin-top:60px;
+    width: 90%;
+    height:100%;
+}
+
+.licen{
+    display:flex;
+    width:100%;
+}
+
+.title{
+    color:rgb(0, 0, 0);
+    font-size:42px;
+    text-transform: uppercase;
+}
+
+.lorem{
+    font-size:20px;
+    color:rgb(129, 129, 129)
+}
+
+.h2{
+    width: 30%;
+}
+
+.imgs{
+    width: 70%;
+    display:flex;
+    justify-content: center;
+}
+
+.imgs img{
+    width:610px;
+}
+.work2{
+    margin-top:40px;
+    width:100%;
+    background: #eceaea;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.works{
+    width:90%;
+    padding-bottom: 30px;
+}
+
+.works img{
+    height:200px;
+}
+
+.work{
+    display:flex;
+    flex-direction:row
+}
+
+.courses{
+    width:50%;
+    display:flex;
+    flex-direction:column;
+    padding-right:20px;
+}
+
+.licensing{
+    width:50%;
+    padding-left:20px;
+    display:flex;
+    flex-direction:column;
+}
+
+.wtitle{
+    font-size:36px;
+}
+
+.coursesp, .licensingp{
+    transition:.3s;
+    font-size:29px;
+    color: rgb(87, 85, 85);
+    cursor: pointer;
+    margin-top:10px;
+    width: 0;
+}
+
+.coursesp:hover , .licensingp:hover{
+    color:rgb(216, 0, 0);
+}
+
+
+.pp{
+    font-size:18px;
+}
+
+.ds{
+    color: rgb(87, 85, 85);
+}
+
+.tw{
+    width:90%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top: 50px;
+    background-image: url("/img/tw.png")
+}
+
+
+.work3{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.relative{
+    color:#ffffff;
+    display:flex;
+    flex-direction:column;
+    font-size:50px;
+    align-items: center;
+}
+
+.twp{
+    font-size:22px;
+}
+
+.go{
+    transition: .3s;
+    font-size: 30px;
+    background-color: #B13232;
+    width:50px;
+    height:50px;
+    text-align:center;
+    line-height: 50px;
+    color:#ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.go:hover{
+    background-color:#fff;
+    color:#B13232
+}
+

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.container{
+   background:#f1efef;
+   width: 100%;
+   display:flex;
+   flex-direction: column;
+   font-family: 'Oswald', sans-serif;
+   justify-content:center;
+   align-items: center;
+   color: rgb(48, 48, 48);
+}
+.contain{
+   margin-top:60px;
+   width: 90%;
+   height:100%;
+   display:flex;
+   flex-direction:row;
+   height:500px;
+}
+
+.contain .uno ,.contain .tres{
+   display: flex;
+   flex-direction: column;
+   justify-content:space-around;
+   width:30%
+}
+
+.contain .dos{
+   display: flex;
+   flex-direction: column;
+   justify-content:center;
+   width:40%;
+   margin:0 20px;
+}
+
+.contain div{
+   width:100%;
+   display:flex;
+   flex-direction:row;
+   justify-content:center;
+   align-items:center;
+   font-family: 'Lato';
+}
+
+.conta img{
+   width:380px;
+}
+
+.tt{
+   color: rgb(51, 48, 48);
+   font-size:25px;
+   width:370px;
+   background-color: #c7c5c5;
+   padding: 30px;
+}
+
+.contain .relleno{
+   width:400px;
+   display: flex;
+   flex-direction: column;
+   align-items:start;
+}
+
+.whereis img{
+   width:40px;
+   margin-left: -30px;
+   cursor: pointer;
+}
+
+.contain .where{
+   width:400px;
+   display: flex;
+   flex-direction: column;
+   align-items:start;
+}
+
+.whereis p{
+   transition:.3s;
+   cursor: pointer;
+}
+
+.whereis p:hover{
+   color:#8f8c8c
+}
+
+.contain .servicios{
+   width:400px;
+   display: flex;
+   flex-direction: column;
+   align-items:start;
+}
+
+.contain .sugerencias{
+   width:400px;
+   display: flex;
+   flex-direction: column;
+   align-items:start;
+}
+
+.rtt{
+   font-size: 18px;
+   color:#000
+}

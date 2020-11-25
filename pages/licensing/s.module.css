@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.container{
+   width: 100%;
+   display:flex;
+   flex-direction: column;
+   font-family: 'Lato', sans-serif;
+   justify-content:center;
+   align-items: center;
+   background-color:#dfdfdf;
+   color: rgb(48, 48, 48);
+
+}
+
+.contain{
+   margin-top:60px;
+   width: 95%;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+}
+
+.all{
+   width:100%;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-bottom: 50px;
+}
+
+.img{
+    height: 90px;
+    cursor: pointer;
+    transition: .34s;
+    overflow:hidden;
+}
+
+.img:hover{
+
+}
+
+.licen{
+   transition:.2s;
+   width:17%;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   justify-content:center;
+   height: 190px;
+   margin:20px 10px;
+   background-color:#ffffff;
+   border-radius: 10px;
+   padding-top: 10px;
+}
+
+.licen:hover{
+   background-color: #f0efef;
+}
+
+.licent{
+   transition: .3s;
+   color: rgb(25, 100, 150);
+   text-align: center;
+   font-size:17px;
+   cursor: pointer;
+   padding:0px 6px;
+   font-weight:800;
+}
+
+.licent:hover{
+   color: rgb(14, 29, 39);
+}
+
+.in{
+   width:95%;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+}
+
+.intt{
+   font-size:45px;
+   margin:44px 0 37px 0;
+}
+
+.raya{
+   width:240px;
+   height:4.5px;
+   background-color: #a80000;
+   margin-bottom: 30px;
+}
+
+.poi{
+   color: #4e4e4e;
+   font-size:17px
+}
