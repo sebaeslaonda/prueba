@@ -2,97 +2,97 @@
     {
         "name":"Adobe Acrobat Pro 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Muse 2018",
         "img":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Adobe_Muse_CC_icon.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Animate 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Animate_CC_icon_%282020%29.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Audition 2020",
         "img":"https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Bridge 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Adobe_Bridge_CC_icon.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Character Animator 2020",
         "img":"https://www.adobe.com/content/dam/cc/icons/character-animator.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Dimension 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Adobe_Dimension_Logo.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Dreamweaver 2020",
         "img":"https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Fresco",
         "img":"https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/fresco.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Illustrator CC 2020",
         "img":"https://www.adobe.com/content/dam/cc/icons/illustrator.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe InCopy 2020 ",
         "img":"https://www.adobe.com/content/dam/shared/images/product-icons/svg/incopy.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe InDesign 2020",
         "img":"https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/indesign.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Media Encoder 2020 ",
         "img":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Media_Encoder_Icon.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Photoshop 2020 ",
         "img":"https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Photoshop Lightroom Classic 2020",
         "img":"https://www.adobe.com/content/dam/cc/icons/lightroom-classic.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Prelude 2020",
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/04/Adobe_Prelude_CC_icon_%282020%29.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Premiere Pro 2020",
         "img":"https://www.adobe.com/content/dam/cc/icons/premiere.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe Premiere Rush",
         "img":"https://www.adobe.com/content/dam/cc/icons/premiere-rush.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Adobe XD",
         "img":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Microsoft Office 2019 Select Edition",
@@ -117,7 +117,7 @@
     {
         "name":"Microsoft Lync 2019",
         "img":"https://upload.wikimedia.org/wikipedia/commons/3/30/Microsoft_Lync_2013_logo.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Microsoft OneNote 2016-2019",
@@ -142,7 +142,7 @@
     {
         "name":"Microsoft Visio Viewer 2019",
         "img":"https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Microsoft Word 2016-2019",
@@ -152,7 +152,7 @@
     {
         "name":"Microsoft Visio pro 2016-2019",
         "img":"https://5.imimg.com/data5/AZ/GJ/TM/SELLER-10755944/microsoft-visio-pro-2019-500x500.jpg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Microsoft Project Pro 2016-2019",
@@ -172,62 +172,62 @@
     {
         "name":"FL studio 20",
         "img":"https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Virtual DJ Infinity 2020",
         "img":"https://es.virtualdj.com/images/social/icon.png",
-        "des":""
+        "des":" Es un software profesional de mezcla musical que simula una interfaz de mezclas. Fue creado por la empresa francesa Atomix Productions y destinado principalmente a DJ 's. Actualmente es uno de los programas más usados en el mundo profesional.Solo tendrás que seleccionar el directorio donde se encuentran los temas, arrastrar uno a cada pista y empezar a reproducir. El programa permite, entre otras características, ajustar y modificar las BPM, hacer loops, scratchs, incluir efectos en las canciones como el extractor de voz, el ajuste de graves o insertar efecto de frenado progresivo."
     },
     {
         "name":"Ableton Live Suite ",
         "img":"https://logonoid.com/images/ableton-logo.png",
-        "des":""
+        "des":"Es un software rápido, fluido y flexible para la creación musical.  Incluyen efectos, instrumentos y otro tipo de funciones creativas, todo lo que necesitas para crear música de cualquier tipo."
     },
     {
         "name":"Traktor Pro ",
         "img":"https://i.pinimg.com/originals/ea/1e/b4/ea1eb43fa5816528b2a2848a075e3705.jpg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"VMware Workstation Pro",
         "img":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Serato DJ Pro",
         "img":"https://www.pioneerdj.com/-/media/pioneerdj/images/features/software/serato/serato-dj-icon.jpg?h=500&w=500&hash=B28201390080647DA18E97ACE13A697F",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Magix Vegas Pro",
         "img":"https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Avast Premium Security",
         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEje6DCmHVPs8fYG-OiRkgvNtgf8ADkXspB-mMbiRSq700dPFJ0NH1xn6UIsUcjcbdsxnaWo&usqp=CAc",
-        "des":""
+        "des":"s"
     },
     {
         "name":"ESET Security ",
         "img":"https://d204fp6kl23jzz.cloudfront.net/catalog/product/cache/1764944c93bfb9f85bdba8ef9f05f71a/c/a/caja_fs_1100x1100.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"CCleaner",
         "img":"https://img.utdstc.com/icons/ccleaner.png:200",
-        "des":""
+        "des":"s"
     },
     {
         "name":"CorelDRAW Graphics Suite 2020",
         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrq1AWVBuw7n8ahS3t-Jaf1GvFmVLtV1BgAM_On3lDR6qRfFtA-mS5oDAGEg&usqp=CAc",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Vector Magic",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vector_Magic_logo.svg/1200px-Vector_Magic_logo.svg.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Skeychup 2020",
@@ -242,51 +242,51 @@
     {
         "name":"AutoCAD Civil 3D",
         "img":"https://img.icons8.com/color/452/autodesk-civil-3d.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"AutoCAD 2021",
         "img":"https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"AutoDesk MAYA",
         "img":"https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Lumion Pro",
         "img":"https://lumion.com/wp-content/uploads/company_logos/lumion_logo_2016_twocolors.svg",
-        "des":""
+        "des":"s"
     },
     {
         "name":"CorelCad",
         "img":"https://www.coreldraw.com/static/cdgs/product_content/corelcad/2020/boxshot-cad-2020.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Corel Aftershot Pro",
         "img":"https://www.aftershotpro.com/static/asp/images/products/aftershot/aftershot-pro-3.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Cinema 4D Studio",
         "img":"https://i.pinimg.com/originals/4b/69/6f/4b696fd5c128bb44d2ea597711f90f7f.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Wondershare Filmora Video Editor",
         "img":"https://img.icons8.com/nolan/452/filmora.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Vray for Sketchup",
         "img":"https://i.ibb.co/18V3Qh2/V-Ray-Sketch-Up-logo-B.png",
-        "des":""
+        "des":"s"
     },
     {
         "name":"Wondershare Recovery Pro",
         "img":"https://static.crozdesk.com/web_app_library/providers/logos/000/006/921/original/recoverit-photo-recovery-1559230433-logo.png?1559230433",
-        "des":""
+        "des":"s"
     }
 ]
