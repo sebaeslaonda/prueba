@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 .container{
     display:flex;
     transition: .5s;
@@ -6,6 +7,7 @@
     height:50px;
     justify-content:space-between;
     position: fixed;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .logo{
@@ -54,6 +56,7 @@
     justify-content:space-between;
     position: fixed;
     transition: .5s;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .img2{

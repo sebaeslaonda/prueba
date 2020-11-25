@@ -6,8 +6,8 @@ const Mainb = ()=>{
             <div className={s.contain}>
                 <div className={s.licen}>
                     <div className={s.h2}>
-                        <p className={s.title}>Licencias y cursos para ti</p>
-                        <p className={s.lorem}>Encuentre las licencias y los cursos que necesita para crecer profesionalmente,
+                        <p className={s.title}>Software, cursos y juegos todo lo que buscas</p>
+                        <p className={s.lorem}>Encuentra los software y los cursos que necesita para crecer profesionalmente,
                              aquí encontrarás las herramientas necesarias</p>
                     </div>
                     <div className={s.imgs}><img src="./img/licencias.png"/></div>
@@ -26,8 +26,8 @@ const Mainb = ()=>{
                                     </div>
                             </div>
                             <div className={s.licensing}>
-                                <Link href="licensing"><p className={s.licensingp}>Licencias</p></Link>
-                                <div className={s.ds}><p className={s.pp}>Al comprar la licencia necesitas tener teamviewer para poder enviar el archivo, o simplemente descargar el archivo por el link que te damos, luego de eso puedes activar la licencia tú mismo, pero si necesitas ayuda podemos activarla de forma remota por ti</p>
+                                <Link href="licensing"><p className={s.licensingp}>Software</p></Link>
+                                <div className={s.ds}><p className={s.pp}>Al comprar el software necesitas tener teamviewer para poder enviar el archivo, o simplemente descargar el archivo por el link que te damos, luego de eso puedes instalar el software tú mismo, pero si necesitas ayuda podemos instalarlo de forma remota por ti</p>
                                </div>
                             </div>
                     </div>

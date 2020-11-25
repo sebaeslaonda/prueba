@@ -21,9 +21,9 @@ const Footer = ()=>{
                 <div className={s.ab}>
                     <p className={s.tt}>Redes </p>
                     <div>
-                        <div><Link href="#"><div><img src="img/insta.png" /> <p>Instagram</p></div></Link></div>
-                        <div><Link href="#"><div><img src="img/ws.png" /> <p>Whatsapp</p></div></Link></div>
-                        <div><Link href="#"><div><img src="img/face.png" /> <p>Facebook</p></div></Link></div>
+                        <div><Link href="https://www.instagram.com/pconocimientos/"><div><img src="img/insta.png" /> <p>Instagram</p></div></Link></div>
+                        <div><Link href=""><div><img src="img/ws.png" /> <p>Whatsapp</p></div></Link></div>
+                        <div><Link href="https://www.facebook.com/pconocimientos.mx.3/"><div><img src="img/face.png" /> <p>Facebook</p></div></Link></div>
                     </div>
 
                 </div>
@@ -31,7 +31,7 @@ const Footer = ()=>{
                     <p className={s.tt}>Secciones</p>
                     <ul>
                     <li><Link href="contact"><a>Información </a></Link></li>
-                    <li><Link href="licensing"><a>Licencias </a></Link></li>
+                    <li><Link href="licensing"><a>Software  </a></Link></li>
                     <li><Link href="courses"><a>Cursos</a></Link></li>
          
                     </ul>

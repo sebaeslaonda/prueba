@@ -4,25 +4,14 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head />
+        <Head>
+          <link rel="stylesheet"  href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+        </Head>
         <body>
           <Main />
-          <style jsx>
-          {
-            `
-            @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-            *{
-              margin:0;
-              padding:0,
-              box-sizing:border-box;
-              font-family: 'Lato', sans-serif;
-            }`
-          }
-        </style>
           <NextScript />
         </body>
       </Html>
-      
     )
   }
 }

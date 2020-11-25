@@ -8,7 +8,7 @@ const Fe = ()=>{
         
             <div className={s.contain}>
                 <div className={s.in}>
-                    <p className={s.intt}>Licencias online</p>
+                    <p className={s.intt}>Softwares online</p>
                     <div className={s.raya}></div>
                     <p className={s.poi}>Visite nuestra tienda online de softwares con entrega inmediata, si no encuentra el que necesita, contáctenos y lo cotizaremos en breve.</p>
                 </div>
