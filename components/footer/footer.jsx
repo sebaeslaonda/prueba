@@ -31,7 +31,7 @@ const Footer = ()=>{
                     <p className={s.tt}>Secciones</p>
                     <ul>
                     <li><Link href="contact"><a>Información </a></Link></li>
-                    <li><Link href="licensing"><a>Software  </a></Link></li>
+                    <li><Link href="software"><a>Software  </a></Link></li>
                     <li><Link href="courses"><a>Cursos</a></Link></li>
                     </ul>
                 </div>

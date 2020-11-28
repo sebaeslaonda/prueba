@@ -13,7 +13,7 @@ const Nav = ()=>{
         <div className={s.links}>
             <ul>
                 <li><Link href="contact"><a>Información </a></Link></li>
-                <li><Link href="licensing"><a>Software </a></Link></li>
+                <li><Link href="softwares"><a>Software </a></Link></li>
                 <li><Link href="courses"><a>Cursos</a></Link></li>
                 <li><Link href="https://www.instagram.com/pconocimientos/"><img src="img/insta.png"/></Link></li>
             </ul>
