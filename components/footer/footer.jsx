@@ -14,16 +14,16 @@ const Footer = ()=>{
                 <div className={s.in}>
                     <p className={s.tt}>Información</p>
                     <div><p>Solo tienes que contactarnos y nosotros hacemos el resto
-                         para más información haz <span className={s.name}>click aquí</span>
+                         para más información haz <Link href="/contact"><span className={s.name}>click aquí</span></Link> 
                     </p></div>
 
                 </div>
                 <div className={s.ab}>
                     <p className={s.tt}>Redes </p>
                     <div>
-                        <div><Link href="https://www.instagram.com/pconocimientos/"><div><img src="img/insta.png" /> <p>Instagram</p></div></Link></div>
-                        <div><Link href=""><div><img src="img/ws.png" /> <p>Whatsapp</p></div></Link></div>
-                        <div><Link href="https://www.facebook.com/pconocimientos.mx.3/"><div><img src="img/face.png" /> <p>Facebook</p></div></Link></div>
+                        <div><div><img src="img/insta.png" onClick={()=>window.open("https://www.instagram.com/pconocimientos/")}/> <p onClick={()=>window.open("https://www.instagram.com/pconocimientos/")}>Instagram</p></div></div>
+                        <div><div><img src="img/ws.png" onClick={()=> window.open('https://api.whatsapp.com/message/MEWOIDUO4IEOL1')}/> <p onClick={()=> window.open('https://api.whatsapp.com/message/MEWOIDUO4IEOL1')}>Whatsapp</p></div></div>
+                        <div><div><img src="img/face.png" onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")} /> <p  onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")}>Facebook</p></div></div>
                     </div>
 
                 </div>
@@ -31,7 +31,7 @@ const Footer = ()=>{
                     <p className={s.tt}>Secciones</p>
                     <ul>
                     <li><Link href="contact"><a>Información </a></Link></li>
-                    <li><Link href="software"><a>Software  </a></Link></li>
+                    <li><Link href="softwares"><a>Software  </a></Link></li>
                     <li><Link href="courses"><a>Cursos</a></Link></li>
                     </ul>
                 </div>

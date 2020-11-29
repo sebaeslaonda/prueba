@@ -8,7 +8,7 @@
    align-items: center;
    background-color:#dfdfdf;
    color: rgb(48, 48, 48);
-
+   outline:none;
 }
 
 .contain{
@@ -29,7 +29,6 @@
 
 .img{
     height:120px;
-    cursor: pointer;
     transition: .34s;
     margin: 30px 0 20px 0 ;
 }
@@ -128,6 +127,7 @@
 }
 
 .des{
+   text-align: justify;
    transition: .3s;
    height:80%;
    overflow-y: auto;
@@ -145,12 +145,18 @@
 }
 
 .button{
+  transition: .3s;
   margin:40px 0 40px 0;
-  padding: 6px 5px;
+  padding: 10px 50px;
   background:#df4848;
   border:none;
   border-radius: 3px;
-  color:rgb(0, 0, 0);
+  color:rgb(255, 255, 255);
   font-size:16.5px;
   cursor: pointer;
+  outline: none;
+}
+
+.button:hover{
+   background:#b62929;
 }

@@ -25,7 +25,7 @@ const Mainb = ()=>{
                                     </div>
                             </div>
                             <div className={s.licensing}>
-                                <Link href="licensing"><p className={s.licensingp}>Software</p></Link>
+                                <Link href="softwares"><p className={s.licensingp}>Software</p></Link>
                                 <div className={s.ds}><p className={s.pp}>Al comprar el software necesitas tener teamviewer para poder enviar el archivo, o simplemente descargar el archivo por el link que te damos, luego de eso puedes instalar el software tú mismo, pero si necesitas ayuda podemos instalarlo de forma remota por ti</p>
                                </div>
                             </div>
