@@ -9,7 +9,7 @@ const Fe = ()=>{
     const [pantalla,setPantalla] = useState([]);
 
     const [seccion,setSeccion] = useState(1);
-    const niveles = Math.ceil(licencias.length / 10) ;
+    const niveles = Math.ceil(licencias.length / 6) ;
     const diferencias = niveles - licencias.length;
     const total = licencias.length;
     let seccionesarray = [];
@@ -28,12 +28,12 @@ const Fe = ()=>{
         let pp = [];
         if(seccion == niveles){
             let l = seccion - diferencias;
-            for(let x = ((seccion-1)*10);x < l ;x++){
+            for(let x = ((seccion-1)*6);x < l ;x++){
                 pp.push(licencias[x]);
             };
             setPantalla(pp);
         }else{
-            for(let x = ((seccion-1)*10);x<((seccion-1)*10)+10;x++){
+            for(let x = ((seccion-1)*6);x<((seccion-1)*6)+6;x++){
                 pp.push(licencias[x]);
             };
             setPantalla(pp);
@@ -53,8 +53,16 @@ const Fe = ()=>{
                 {
                     pantalla.map((info)=>
                         <div className={s.licen} key={info.name}>
-                            <Link href={`licensing/${info.name}`}><img className={info.id === 12 ? s.adobe : s.img} src={info.img}/></Link>
-                            <Link href={`licensing/${info.name}`}><p className={s.licent}>{info.name}</p></Link>
+                            <div className={s.headres}></div>
+                            <div className={s.bodys}>
+                                <img src={info.img} className={s.img}/>
+                                <p className={s.title}>{info.name}</p>
+                                <p className={s.size}>{info.size}</p>
+                                <p className={s.des}>{info.des}</p>
+                                <button className={s.button} onClick={()=>{
+                                    window.open(`https://api.whatsapp.com/send?phone=5216682581881&text=Hola!%2C%20me%20interesa%20el%20curso%20de%20${info.name}`)
+                                }}>Lo quiero</button>
+                            </div>
                         </div>
                     )
                 }

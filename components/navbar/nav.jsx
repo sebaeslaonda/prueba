@@ -8,14 +8,13 @@ const Nav = ()=>{
     <div className={s.container}>
         <div className={s.logo}>
             <Link href="/"><img src="img/logo.png" alt="logo" href="/" className={s.img}/></Link>
-            <Link href="/"><p className={s.p}>PC<span className={s.span}>onocimiento</span></p></Link>
         </div>
         <div className={s.links}>
             <ul>
                 <li><Link href="contact"><a>Información </a></Link></li>
                 <li><Link href="softwares"><a>Software </a></Link></li>
                 <li><Link href="courses"><a>Cursos</a></Link></li>
-                <li><Link href="https://www.instagram.com/pconocimientos/"><img src="img/insta.png"/></Link></li>
+                <li><img src="img/insta.png" onClick={()=>window.open('https://www.instagram.com/pconocimientos/')}/></li>
             </ul>
         </div>
     </div>
