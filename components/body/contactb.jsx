@@ -19,9 +19,10 @@ const Lop = ()=>{
                         <div className={s.whereis}>
                             <div ><img src="img/insta.png" onClick={()=>window.open("https://www.instagram.com/pconocimientos/")} /> <p onClick={()=>window.open("https://www.instagram.com/pconocimientos/")}>Instagram</p></div>
                             <div><img src="img/ws.png" onClick={()=> window.open('https://api.whatsapp.com/message/MEWOIDUO4IEOL1')}/> <p onClick={()=> window.open('https://api.whatsapp.com/message/MEWOIDUO4IEOL1')}>Whatsapp</p></div>
-                            <img src="img/face.png" onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")} /> <p onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")}>Facebook</p></div>
+                            <div><img src="img/face.png" onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")}/> <p onClick={()=>window.open("https://www.facebook.com/pconocimientos.mx.3/")}>Facebook</p></div>
                         </div>
-                    
+                    </div>
+
                 </div>
 
                 <div className={s.dos}>

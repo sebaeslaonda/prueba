@@ -1,4 +1,6 @@
 import Navbar from '../../components/navbar/nav';
+import Footer from '../../components/footer/footer'
+import Body from './body';
 import Head from 'next/head';
 function Main(){
     return(
@@ -7,6 +9,8 @@ function Main(){
                 <title>Courses</title>
             </Head>
             <Navbar />
+            <Body />
+            <Footer />
         </main>
     )
 }
