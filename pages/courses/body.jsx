@@ -54,12 +54,12 @@ const Lo = ()=>{
                         <div className={s.licen} key={info.name}>
                             <div className={s.headres}></div>
                             <div className={s.bodys}>
-                                <img src={info.img} className={s.img}/>
+                                <img src={info.img} className={info.name == 'Curso de como ganar dinero jugando videojuegos' ? s.mario : s.img}/>
                                 <p className={s.title}>{info.name}</p>
                                 <p className={s.size}>{info.size}</p>
                                 <p className={s.des}>{info.des}</p>
                                 <button className={s.button} onClick={()=>{
-                                    window.open(`https://api.whatsapp.com/send?phone=5216682581881&text=Hola!%2C%20me%20interesa%20el%20curso%20de%20${info.name}`)
+                                    window.open(`https://api.whatsapp.com/send?phone=526682581881&text=Hola!%2C%20me%20interesa%20el%20curso%20de%20${info.name}`)
                                 }}>Lo quiero</button>
                             </div>
                         </div>

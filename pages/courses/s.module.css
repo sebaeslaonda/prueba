@@ -36,6 +36,15 @@
     border-radius: 50%;
 }
 
+.mario{
+    height:120px;
+    width:120px;
+    object-fit: contain;
+    transition: .34s;
+    margin: 30px 0 20px 0 ;
+    border-radius: 50%;
+}
+
 .licen{
    transition:.2s;
    width:36%;

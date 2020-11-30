@@ -7,7 +7,7 @@ const Footer = ()=>{
             <div className={s.container}>
                 <div className={s.co}>
                     <p className={s.tt}>Contactos</p>
-                    <div><p>+52 668 245 3469</p>
+                    <div><p>+52 668 258 1881</p>
                     <p>pconocimientosmx@gmail.com</p></div>
 
                 </div>
