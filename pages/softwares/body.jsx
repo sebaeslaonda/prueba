@@ -36,6 +36,7 @@ const Fe = ()=>{
             };
             setPantalla(pp);
         }
+        window.scrollTo(0, 0);
     },[seccion])
 
 
