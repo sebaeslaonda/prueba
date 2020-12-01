@@ -1,8 +1,6 @@
 import licencias from './licencias.json';
 import s from './s.module.css';
-import Link from 'next/link';
 import {useState,useEffect} from 'react'
-import { set } from 'mongoose';
 
 const Fe = ()=>{
 
