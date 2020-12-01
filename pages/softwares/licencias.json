@@ -10,22 +10,22 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Adobe_Muse_CC_icon.svg",
         "des": "Muse, que funciona en AIR, utiliza las clásicas herramientas del software de Adobe y le añade otras destinadas a las zonas básicas de una web en forma WYSIWYG. Todo el proceso de trabajo está integrado en el resto de aplicaciones de la suite de Adobe y, mientras, es el propio Muse el que se encarga de crear el código necesario para hacerlo funcionar."
     },
-    {
+    {   "size":"380 MB",
         "name": "Adobe Animate 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Animate_CC_icon_%282020%29.svg",
         "des": "Diseña animaciones interactivas para juegos, seriales de TV y el sitio web. Dota de vida a tus dibujos y tus banners. Puedes crear doodles animados y avatares. Y agrega acción a las infografías y al contenido de aprendizaje electrónico. Con Animate puedes publicar rápidamente en varias plataformas en casi cualquier formato, así como llegar a los espectadores de cualquier pantalla."
     },
-    {
+    {   "size":"380 MB",
         "name": "Adobe Audition 2020",
         "img": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg",
         "des": "Audition es un conjunto de herramientas completo que incluye funciones de multipista, forma de onda y visualización espectral para crear, mezclar, editar y restaurar contenido en formato de audio. Esta poderosa estación de trabajo de audio está diseñada para acelerar los flujos de trabajo de producción de video y finalización de audio, y proporcionar una mezcla acabada de sonido de gran calidad."
     },
-    {
+    {   "size":"380 MB",
         "name": "Adobe Bridge 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Adobe_Bridge_CC_icon.svg",
         "des": "dobe Bridge es un poderoso gestor de activos creativos que te permite previsualizar, organizar, editar y publicar varios activos creativos de forma rápida y sencilla. Edita metadatos. Agrega a los activos palabras clave, etiquetas y calificaciones. Organiza activos con colecciones y encuentra activos mediante poderosos filtros y funciones avanzadas de búsqueda de metadatos. Colabora con Bibliotecas y publica en Adobe Stock justo desde Bridge."
     },
-    {
+    {   "size":"380 MB",
         "name": "Adobe Character Animator 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/character-animator.svg",
         "des": "Character Animator usa tus expresiones y movimientos para animar personajes en tiempo real. Es tan rápido que puedes retransmitir en directo mientras trabajas para sorprender a las audiencias en cada paso del camino."
