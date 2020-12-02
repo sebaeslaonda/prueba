@@ -175,10 +175,10 @@
 .publicidad{
     flex-direction: column;
     background:#007CBD;
-    display:flex;
-    justify-content: center;
     align-items: center;
-    width:70%;
+    display:flex;
+    justify-content:space-between;
+    width:76%;
 }
 .publicidad p{
     font-size:33px;
@@ -270,6 +270,10 @@
         width:340px;
         height:340px;
     }
+    .pack img{
+        width:70px;
+        height:70px;
+    }
 }
 
 
@@ -299,6 +303,20 @@
     }
     .pp{
         font-size:16px
+    }
+    .pack img{
+        width:50px;
+        height:50px;
+    }
+    .pack p, .publicidad p{
+        font-size:22px;
+    }
+    .suma p{
+        font-size:14px;
+    }
+    .publicidad button{
+        margin: 20px 0 ;
+        padding:5px 80px;
     }
 }
 
@@ -340,6 +358,9 @@
         width: 40px;
         height:40px;
         line-height:40px;
+    }
+    .publicidad img{
+        width:81%;
     }
 }
 
@@ -401,6 +422,22 @@
     }
 }
 
+@media (max-width:550px){
+    .nove{
+        flex-direction: column;
+    }
+    .publicidad, .pack{
+        width:100%;
+    }
+    .suma{
+        flex-direction: row;
+    }
+    .publicidad button{
+        padding:4px 57px;
+        font-size:13px
+    }
+}
+
 @media (max-width:450px){
     .imgs img{
         width:190px;
@@ -420,6 +457,7 @@
         margin: 5px 5px;
         padding: 0
     }
+    
 }
 
 @media (max-width:400px){
@@ -452,5 +490,12 @@
     }
     .pp{
         font-size:14.5px
+    }
+    .pack img{
+        width:34px;
+        height:34px;
+    }
+    .pack p, .publicidad p{
+        font-size:19px;
     }
 }
