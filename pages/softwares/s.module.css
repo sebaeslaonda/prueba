@@ -33,6 +33,7 @@
     min-width: 120px;
     min-height: 120px;
     transition: .34s;
+    object-fit: contain;
     margin: 30px 0 20px 0 ;
 }
 
