@@ -3,17 +3,23 @@ import s from './s.module.css';
 import {useState,useEffect} from 'react'
 
 const Fe = ()=>{
-
+    //mostrar
     const [pantalla,setPantalla] = useState([]);
+    const [h,setH] = useState(1);
 
+    //primero------------------------------
     const [seccion,setSeccion] = useState(1);
-    const niveles = Math.ceil(licencias.length / 6) ;
+    const [niveles,setNiveles] = useState(Math.ceil(licencias.length / 6))
     const diferencias = niveles - licencias.length;
-    const total = licencias.length;
-    let seccionesarray = [];
+    let largo = [];
     for(let i = 1; i <= niveles;i++){
-        seccionesarray.push(i);
+        largo.push(i);
     }
+    //opcional
+    const [busca,setBusca] = useState('');
+    const [niveles2,setNiveles2] = useState();
+    const [seccion2,setSeccion2] = useState(1);
+    const [largo2,setLargo2] = useState([]);
 
     function numero(e){
         if(e==seccion){
@@ -21,9 +27,32 @@ const Fe = ()=>{
         }
         return <p key={e} onClick={()=>setSeccion(e)}  id={e}>{e}</p>
     }
+    function numero2(e){
+        if(e==seccion2){
+            return <p key={e} onClick={()=>setSeccion2(e)} className={s.selec} id={e}>{e}</p>
+        }
+        return <p key={e} onClick={()=>setSeccion2(e)}  id={e}>{e}</p>
+        console.log(seccion2)
+    }
 
-    useEffect(()=>{
-        let pp = [];
+useEffect(()=>{
+    setH(1);
+    setSeccion(1)
+    if(busca.length!=0){
+        const reg = new RegExp(`^${busca.replace(/ /g,"").toLowerCase()}`);
+        const pore = licencias.filter(e=> reg.test(e.name.replace(/ /g,"").toLowerCase()));
+        setPantalla(pore)
+        if(pore.length !=0){
+            setH(2);
+        }
+    }
+},[busca]);
+
+useEffect(()=>{
+    if(busca.length==0){
+    setH(1);
+    console.log(h)
+    let pp = [];
         if(seccion == niveles){
             let l = seccion - diferencias;
             for(let x = ((seccion-1)*6);x < l ;x++){
@@ -37,12 +66,17 @@ const Fe = ()=>{
             setPantalla(pp);
         }
         window.scrollTo(0, 0);
-    },[seccion])
+    }
+},[seccion,busca]);
 
 
     return(
         <div className={s.container}>
             <div className={s.contain}>
+                <div className={s.buscador}>
+                    <input type="text" id="input" maxlength="32" onChange={(e)=>{setBusca(e.target.value)}}/>
+                    <label for="input"><img src="img/lupa.svg"/></label>
+                </div>
                 <div className={s.in}>
                     <p className={s.intt}>Softwares online</p>
                     <div className={s.raya}></div>
@@ -68,7 +102,7 @@ const Fe = ()=>{
                 </div>
                     <div className={s.numbers}>
                         {
-                            seccionesarray.map(e=> numero(e))
+                            h == 1 ? largo.map(e=> numero(e)) :  largo2.map(e=>numero2(e))
                         }
                     </div>
             </div>
