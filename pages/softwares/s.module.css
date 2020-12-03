@@ -227,7 +227,18 @@
       max-width:87px;
       min-width: 87px;
       min-height: 87px;
-  }
+  }  .buscador img{
+   width:20px;
+}
+
+.buscador input{
+   height:15px;
+   width:40%;
+   outline:none;
+   padding: 3px 2px;
+   border:2px solid#DD2C88;
+   margin-right: 10px;
+}
   .title{
      font-size:25px
   }
