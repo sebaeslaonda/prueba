@@ -67,7 +67,7 @@
 .raya{
    width:240px;
    height:4.5px;
-   background-color: #cc349e;
+   background-color: #D73939;
    margin-bottom: 20px;
 }
 
@@ -112,7 +112,7 @@
 .headres{
    width: 100%;
    height:10%;
-   background:#fe5990;
+   background:#D73939;
    border-radius: 4px 4px 0 0;
 }
 
@@ -159,7 +159,7 @@
   transition: .3s;
   margin:20px 0 40px 0;
   padding: 10px 50px;
-  background:#df489b;
+  background:#D73939;
   border:none;
   border-radius: 3px;
   color:rgb(255, 255, 255);
@@ -170,7 +170,7 @@
 }
 
 .button:hover{
-   background:#b6297b;
+   background:#d46060;
 }
 
 .buscador{
@@ -189,7 +189,7 @@
    width:270px;
    outline:none;
    padding: 3px 2px;
-   border:3px solid#DD2C88;
+   border:3px solid#D73939;
    margin-right: 10px;
 }
 

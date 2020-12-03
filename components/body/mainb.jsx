@@ -46,13 +46,10 @@ const Mainb = ()=>{
                         <p>Pack Architects</p>
                         <div className={s.suma}>
                             <img src="https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png" />
-                            <p>+</p>
                             <img src="https://library.kissclipart.com/20180923/rwe/kissclipart-sketchup-icon-clipart-sketchup-computer-icons-v-ra-730661f7d409478d.png" />
-                            <p>+</p>
                             <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQE7YFOWZdvhQQ/company-logo_200_200/0?e=2159024400&v=beta&t=4-8BMiJrnxU0P4JPQxe01uRMNyOnwK2uzgurNJceGpA" />
-                            <p>+</p>
                             <img src="https://academiawacos.com/wp-content/uploads/2020/07/PngItem_1739036.png" />
-                            <p className={s.pluss}>$9.99</p>
+                            <p className={s.pluss}>$9.99 c/u</p>
                         </div>
                     </div>
                 </div>

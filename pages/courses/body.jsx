@@ -17,7 +17,9 @@ const Fe = ()=>{
     }
     //opcional
     const [busca,setBusca] = useState('');
+    const [niveles2,setNiveles2] = useState();
     const [seccion2,setSeccion2] = useState(1);
+    const [largo2,setLargo2] = useState([]);
 
     function numero(e){
         if(e==seccion){
@@ -73,13 +75,9 @@ useEffect(()=>{
             <div className={s.contain}>
                 <div className={s.buscador}>
                     <input type="text" id="input" maxlength="32" onChange={(e)=>{setBusca(e.target.value)}}/>
-                    <label for="input"><img src="img/lupa.svg"/></label>
+                    <label for="input"><img src="img/lupa.png"/></label>
                 </div>
-                <div className={s.in}>
-                    <p className={s.intt}>Softwares online</p>
-                    <div className={s.raya}></div>
-                    <p className={s.poi}>Visite nuestra tienda online de softwares con entrega inmediata, si no encuentra el que necesita, contáctenos y lo cotizaremos en breve.</p>
-                </div>
+                <div className={s.in}> <p className={s.intt}>Cursos online</p> <div className={s.raya}></div> <p className={s.poi}>Visite nuestra tienda de cursos y ve cuales de los más de 40 cursos vas a tomar para mejorar profesionalmente.</p> </div>
                 <div className={s.all}>
                 {
                     pantalla.map((info)=>

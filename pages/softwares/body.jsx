@@ -75,7 +75,7 @@ useEffect(()=>{
             <div className={s.contain}>
                 <div className={s.buscador}>
                     <input type="text" id="input" maxlength="32" onChange={(e)=>{setBusca(e.target.value)}}/>
-                    <label for="input"><img src="img/lupa.svg"/></label>
+                    <label for="input"><img src="img/lupa.png"/></label>
                 </div>
                 <div className={s.in}>
                     <p className={s.intt}>Softwares online</p>
