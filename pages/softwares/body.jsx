@@ -39,7 +39,7 @@ useEffect(()=>{
     setH(1);
     setSeccion(1)
     if(busca.length!=0){
-        const reg = new RegExp(`^${busca.replace(/ /g,"").toLowerCase()}`);
+        const reg = new RegExp(`${busca.replace(/ /g,"").toLowerCase()}`);
         const pore = licencias.filter(e=> reg.test(e.name.replace(/ /g,"").toLowerCase()));
         setPantalla(pore)
         if(pore.length !=0){
