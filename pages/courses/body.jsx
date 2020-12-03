@@ -17,9 +17,7 @@ const Fe = ()=>{
     }
     //opcional
     const [busca,setBusca] = useState('');
-    const [niveles2,setNiveles2] = useState();
     const [seccion2,setSeccion2] = useState(1);
-    const [largo2,setLargo2] = useState([]);
 
     function numero(e){
         if(e==seccion){

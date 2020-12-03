@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <link rel="icon" type="image/png" href="img/icon.png"/>
           <link rel="stylesheet"  href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
         </Head>
         <body>

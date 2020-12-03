@@ -8,7 +8,7 @@ function Main(){
     return(
         <main>
             <Head>
-                <title>Licensing</title>
+                <title>Softwares</title>
             </Head>
             <Navbar />
             <Body />
