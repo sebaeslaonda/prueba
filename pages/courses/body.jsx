@@ -1,20 +1,25 @@
 import licencias from './courses.json';
 import s from './s.module.css';
-import {useEffect} from 'react';
-import {useState} from 'react';
+import {useState,useEffect} from 'react'
 
-const Lo = ()=>{
-
+const Fe = ()=>{
+    //mostrar
     const [pantalla,setPantalla] = useState([]);
+    const [h,setH] = useState(1);
 
+    //primero------------------------------
     const [seccion,setSeccion] = useState(1);
-    const niveles = Math.ceil(licencias.length / 6) ;
+    const [niveles,setNiveles] = useState(Math.ceil(licencias.length / 6))
     const diferencias = niveles - licencias.length;
-    const total = licencias.length;
-    let seccionesarray = [];
+    let largo = [];
     for(let i = 1; i <= niveles;i++){
-        seccionesarray.push(i);
+        largo.push(i);
     }
+    //opcional
+    const [busca,setBusca] = useState('');
+    const [niveles2,setNiveles2] = useState();
+    const [seccion2,setSeccion2] = useState(1);
+    const [largo2,setLargo2] = useState([]);
 
     function numero(e){
         if(e==seccion){
@@ -22,9 +27,32 @@ const Lo = ()=>{
         }
         return <p key={e} onClick={()=>setSeccion(e)}  id={e}>{e}</p>
     }
+    function numero2(e){
+        if(e==seccion2){
+            return <p key={e} onClick={()=>setSeccion2(e)} className={s.selec} id={e}>{e}</p>
+        }
+        return <p key={e} onClick={()=>setSeccion2(e)}  id={e}>{e}</p>
+        console.log(seccion2)
+    }
 
-    useEffect(()=>{
-        let pp = [];
+useEffect(()=>{
+    setH(1);
+    setSeccion(1)
+    if(busca.replace(/ /g,"").length!=0){
+        const reg = new RegExp(`${busca.replace(/ /g,"").toLowerCase()}`);
+        const pore = licencias.filter(e=> reg.test(e.name.replace(/ /g,"").toLowerCase()));
+        setPantalla(pore)
+        if(pore.length !=0){
+            setH(2);
+        }
+    }
+},[busca]);
+
+useEffect(()=>{
+    if(busca.length==0){
+    setH(1);
+    console.log(h)
+    let pp = [];
         if(seccion == niveles){
             let l = seccion - diferencias;
             for(let x = ((seccion-1)*6);x < l ;x++){
@@ -38,16 +66,21 @@ const Lo = ()=>{
             setPantalla(pp);
         }
         window.scrollTo(0, 0);
-    },[seccion])
+    }
+},[seccion,busca]);
 
 
     return(
         <div className={s.container}>
             <div className={s.contain}>
+                <div className={s.buscador}>
+                    <input type="text" id="input" maxlength="32" onChange={(e)=>{setBusca(e.target.value)}}/>
+                    <label for="input"><img src="img/lupa.svg"/></label>
+                </div>
                 <div className={s.in}>
-                    <p className={s.intt}>Cursos</p>
+                    <p className={s.intt}>Softwares online</p>
                     <div className={s.raya}></div>
-                    <p className={s.poi}>Más de 20 cursos diversos que tienes que aprender y ser más profesional.</p>
+                    <p className={s.poi}>Visite nuestra tienda online de softwares con entrega inmediata, si no encuentra el que necesita, contáctenos y lo cotizaremos en breve.</p>
                 </div>
                 <div className={s.all}>
                 {
@@ -55,12 +88,12 @@ const Lo = ()=>{
                         <div className={s.licen} key={info.name}>
                             <div className={s.headres}></div>
                             <div className={s.bodys}>
-                                <img src={info.img} className={info.name == 'Curso de como ganar dinero jugando videojuegos' ? s.mario : s.img}/>
+                                <img src={info.img} className={s.img}/>
                                 <p className={s.title}>{info.name}</p>
                                 <p className={s.size}>{info.size}</p>
                                 <p className={s.des}>{info.des}</p>
                                 <button className={s.button} onClick={()=>{
-                                    window.open(`https://api.whatsapp.com/send?phone=526682581881&text=Hola!%2C%20me%20interesa%20el%20curso%20de%20${info.name}`)
+                                    window.open(`https://api.whatsapp.com/send?phone=526682581881&text=Hola!%2C%20me%20interesa%20el%20software%20de%20${info.name}`)
                                 }}>Lo quiero</button>
                             </div>
                         </div>
@@ -69,7 +102,7 @@ const Lo = ()=>{
                 </div>
                     <div className={s.numbers}>
                         {
-                            seccionesarray.map(e=> numero(e))
+                            h == 1 ? largo.map(e=> numero(e)) :  largo2.map(e=>numero2(e))
                         }
                     </div>
             </div>
@@ -77,4 +110,4 @@ const Lo = ()=>{
     )
 };
 
-export default Lo;
+export default Fe;

@@ -38,7 +38,7 @@ const Fe = ()=>{
 useEffect(()=>{
     setH(1);
     setSeccion(1)
-    if(busca.length!=0){
+    if(busca.replace(/ /g,"").length!=0){
         const reg = new RegExp(`${busca.replace(/ /g,"").toLowerCase()}`);
         const pore = licencias.filter(e=> reg.test(e.name.replace(/ /g,"").toLowerCase()));
         setPantalla(pore)
