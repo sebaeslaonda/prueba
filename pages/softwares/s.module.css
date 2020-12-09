@@ -158,6 +158,7 @@
 .button{
    display:flex;
    flex-direction:column;
+   height:100px;
 }
 
 .button:nth-child(2){
@@ -166,6 +167,7 @@
 .button button{
   transition: .3s;
   padding: 10px 50px;
+  line-height: normal;                              
   background:#D73939;
   border:none;
   border-radius: 3px;
