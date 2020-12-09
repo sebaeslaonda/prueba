@@ -22,15 +22,15 @@
 
 .bu{
     display:flex;
-    flex-direction:column;
+    flex-direction:row;
     align-items:center;
-    width:100%;
+    width:60%;
     height:60%;
-    justify-content:center
+    justify-content:space-around
 }
 .bu button{
-height: 80px;
-width: 37%;
+height: 200px;
+width: 200px;
 margin: 3px;
 border-radius: 3px;
 border:none;
@@ -50,29 +50,35 @@ color:#fff
 .bu button:hover{
     background:#f84a4a;
 }
+
+.bu button img{
+    height:100px;
+}
+
 @media (max-width:880px){
-    .bu button{
-        height: 60px;
-        width: 60%;
+    .bu{
+        width: 80%;
         font-size: 16px;
         }
         .container p{
             font-size:22px;
-            
+
         }
-        
+
 }
 
 
 @media (max-width:580px){
-    .bu button{
-        height: 40px;
-        width: 70%;
-        font-size: 12px;
-        }
+   .bu button img{
+       height:80px;
+   }
+   .bu button{
+       width:150px;
+       height:150px;
+   }
         .container p{
             font-size:15px;
-            
+
         }
-        
+
 }

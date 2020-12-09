@@ -156,12 +156,20 @@
 }
 
 .button{
+   display:flex;
+   flex-direction:column;
+}
+
+.button:nth-child(2){
+   margin:12px 0 15px 0;
+}
+.button button{
   transition: .3s;
-  margin:20px 0 40px 0;
   padding: 10px 50px;
   background:#D73939;
   border:none;
   border-radius: 3px;
+  flex-direction: column;
   color:rgb(255, 255, 255);
   font-size:16.5px;
   cursor: pointer;
@@ -169,7 +177,7 @@
   outline: none;
 }
 
-.button:hover{
+.button button:hover{
    background:#d46060;
 }
 
@@ -259,6 +267,11 @@
       min-width: 82px;
       min-height: 82px;
   }
+
+  .button button{
+   padding: 8px 40px;
+   font-size: 14px;
+  }
   .title{
      font-size:25px
   }
@@ -268,12 +281,7 @@
      padding:0 4px;
   }
 
-  .button{
-   margin:20px 0 40px 0;
-   padding: 8px 40px;
-   font-size:15.5px;
-
- }
+ 
 
  .elegir div button{
     font-size: 15px;
@@ -328,12 +336,7 @@
      margin:0 13px 20px 13px;
   }
 
-  .button{
-   margin:20px 0 40px 0;
-   padding: 10px 80px;
-   font-size:15.5px;
 
- }
 
  .licen{
    height: 540px;
@@ -359,11 +362,7 @@
       padding:0 25px;
       margin:0 13px 20px 13px;
    }
-   .button{
-      margin:20px 0 40px 0;
-      padding: 9px 75px;
-      font-size:13.5px;
-    }
+   
 }
 
 @media (max-width:460px){
@@ -372,11 +371,7 @@
       padding:0 18px;
       margin:0 13px 20px 13px;
    }
-   .button{
-      margin:20px 0 40px 0;
-      padding: 9px 75px;
-      font-size:13.5px;
-    }
+  
     .img, .mario{
       max-height:80px;
       max-width:80px;

@@ -93,9 +93,13 @@ useEffect(()=>{
                                 <p className={s.title}>{info.name}</p>
                                 <p className={s.size}>{info.size}</p>
                                 <p className={s.des}>{info.des}</p>
-                                <button className={s.button} onClick={()=>{
+                                <div className={s.button}><button className={s.button} onClick={()=>{
                                     window.open(`https://api.whatsapp.com/send?phone=526682581881&text=Hola!%2C%20me%20interesa%20el%20software%20de%20${info.name}`)
-                                }}>Lo quiero</button>
+                                }}>Consultar</button>
+                                 <button className={s.button} onClick={()=>{
+                                    window.open(info.pay)
+                                }}>Comprar</button></div>
+                                
                             </div>
                         </div>
                     )

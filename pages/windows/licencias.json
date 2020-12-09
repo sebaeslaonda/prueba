@@ -1,31 +1,48 @@
 [{
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4XK5XAQG6Z2RS",
+        "size": "",
+        "name": "Adobe Creative Suite",
+        "img": "https://i2.wp.com/tiendawarez.com/wp-content/uploads/2020/05/acc2018-%C3%B1.png?fit=582%2C680&ssl=1",
+        "des": "Adobe CS es una suite de distintas aplicaciones en forma de talleres y estudios dotados de herramientas y funciones altamente profesionales creada y producida por Adobe Systems y que están dirigidas a la publicación impresa, publicación web, postproducción de video y dispositivos móviles."
+    },
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "size": "380 MB",
         "name": "Adobe Acrobat Pro 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg",
         "des": "Disfruta siempre de la última tecnología con la herramienta de PDF con más funciones de colaboración, ideal para trabajar en cualquier lugar y momento, y disponible para cualquier dispositivo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "size": "1.1 GB",
         "name": "Adobe Muse 2018",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Adobe_Muse_CC_icon.svg",
         "des": "Muse, que funciona en AIR, utiliza las clásicas herramientas del software de Adobe y le añade otras destinadas a las zonas básicas de una web en forma WYSIWYG. Todo el proceso de trabajo está integrado en el resto de aplicaciones de la suite de Adobe y, mientras, es el propio Muse el que se encarga de crear el código necesario para hacerlo funcionar."
     },
-    {   "size":"380 MB",
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
+        "size": "380 MB",
         "name": "Adobe Animate 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Adobe_Animate_CC_icon_%282020%29.svg",
         "des": "Diseña animaciones interactivas para juegos, seriales de TV y el sitio web. Dota de vida a tus dibujos y tus banners. Puedes crear doodles animados y avatares. Y agrega acción a las infografías y al contenido de aprendizaje electrónico. Con Animate puedes publicar rápidamente en varias plataformas en casi cualquier formato, así como llegar a los espectadores de cualquier pantalla."
     },
-    {   "size":"380 MB",
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
+        "size": "380 MB",
         "name": "Adobe Audition 2020",
         "img": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg",
         "des": "Audition es un conjunto de herramientas completo que incluye funciones de multipista, forma de onda y visualización espectral para crear, mezclar, editar y restaurar contenido en formato de audio. Esta poderosa estación de trabajo de audio está diseñada para acelerar los flujos de trabajo de producción de video y finalización de audio, y proporcionar una mezcla acabada de sonido de gran calidad."
     },
-    {   "size":"380 MB",
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
+        "size": "380 MB",
         "name": "Adobe Bridge 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Adobe_Bridge_CC_icon.svg",
         "des": "dobe Bridge es un poderoso gestor de activos creativos que te permite previsualizar, organizar, editar y publicar varios activos creativos de forma rápida y sencilla. Edita metadatos. Agrega a los activos palabras clave, etiquetas y calificaciones. Organiza activos con colecciones y encuentra activos mediante poderosos filtros y funciones avanzadas de búsqueda de metadatos. Colabora con Bibliotecas y publica en Adobe Stock justo desde Bridge."
     },
-    {   "size":"380 MB",
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
+        "size": "380 MB",
         "name": "Adobe Character Animator 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/character-animator.svg",
         "des": "Character Animator usa tus expresiones y movimientos para animar personajes en tiempo real. Es tan rápido que puedes retransmitir en directo mientras trabajas para sorprender a las audiencias en cada paso del camino."
@@ -36,196 +53,235 @@
         "des": "Crea contenido en 3D atractivo más rápido con iluminación, materiales y modelos de gran calidad. Dimension facilita la creación de visualizaciones de marca, ilustraciones, bocetos de productos y diseños de envases, entre otros trabajos creativos."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Dreamweaver 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg",
         "des": "Puedes crear maravillosos sitios web para cualquier navegador o dispositivo. Puedes crear y publicar sitios web rápidamente en prácticamente cualquier parte con un software de diseño de sitios web que admite HTML, CSS, JavaScript y mucho más."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Fresco",
         "img": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/fresco.svg",
         "des": "Conecta con tu lienzo. Diseñado para los dispositivos y lápices táctiles más recientes (incluidos ahora los iPhone), Adobe Fresco reúne la mayor colección de pinceles vectoriales y rasterizados del mundo, además de los revolucionarios e innovadores pinceles en directo, con el fin de ofrecer una experiencia totalmente natural de dibujo y pintura. Está pensado para artistas, ilustradores, animadores, bocetadores y cualquiera que desee descubrir (o redescubrir) la alegría del dibujo y la pintura."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Illustrator CC 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/illustrator.svg",
         "des": "Illustrator está por todas partes. El software de gráficos vectoriales estándar del sector te permite crear de todo, desde gráficos en el sitio web y dispositivos móviles hasta logotipos, iconos, ilustraciones para libros, paquetes de productos y afiches. Ahora puedes experimentar la libertad y la flexibilidad de Illustrator en escritorio e iPad."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe InCopy 2020",
         "img": "https://www.adobe.com/content/dam/shared/images/product-icons/svg/incopy.svg",
         "des": "InCopy permite a los redactores y editores diseñar texto, realizar un control de cambios y hacer sencillas modificaciones del diseño en un documento mientras los diseñadores trabajan simultáneamente en el mismo documento con Adobe InDesign, todo ello sin sobreescribir las contribuciones del otro."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe InDesign 2020",
         "img": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/indesign.svg",
         "des": "Diseños sorprendentes, solo con InDesign. Adobe InDesign es el software de diseño de páginas líder del sector para medios escritos y digitales. Puedes crear bellos diseños gráficos con tipografías de las mejores compañías del mundo e imágenes de Adobe Stock. Comparte contenido y comentarios rápidamente en PDF. Gestiona producción con facilidad gracias a Adobe Experience Manager. InDesign tiene todo lo que necesitas para crear y publicar libros, revistas digitales, libros electrónicos, pósteres, PDF interactivos y mucho más."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Media Encoder 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Media_Encoder_Icon.svg",
         "des": "Media Encoder. Procesamiento más estable. Transfiere, transcodifica, crea proxies y da salida a casi cualquier formato que puedas imaginar. Automatiza tus flujos de trabajo con ajustes preestablecidos, carpetas de observación y publicación de destinos. Emplea el sintonizador de tiempo para ajustar la duración de forma invisible y aplica correcciones de LUT y sonoridad sin tener que volver a abrir los proyectos. La completa integración con Adobe Premiere Pro, After Effects y otras aplicaciones ofrece un perfecto flujo de trabajo.  "
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Photoshop 2020",
         "img": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg",
         "des": "Ve allá donde la imaginación te lleve. Desde la edición y composición de fotos hasta la pintura digital, animación y diseño gráfico: todo es posible en Photoshop. Da vida a tus ideas en el escritorio y en iPad. Transforma imágenes como por arte de magia con el poder de la IA. Aprende nuevas habilidades y comparte tus proyectos mediante retransmisión en directo. Con nuestro último lanzamiento, Photoshop es más rápido, más sofisticado y más sencillo que nunca."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Photoshop Lightroom Classic 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/lightroom-classic.svg",
         "des": "Es un software creativo de organización y manipulación de imágenes.Las funciones de edición de Lightroom incluyen balance de blancos, tono, presencia, curva de tono, HSL, tono dividido, detalle, correcciones de lentes y manipulación de calibración, así como transformación, eliminación de manchas, corrección de ojos rojos, filtros graduados, filtros radiales y cepillado de ajuste. "
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Prelude 2020",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Adobe_Prelude_CC_icon_%282020%29.svg",
         "des": "Etiqueta y transcodifica rápidamente secuencias de vídeo y crea un montaje inicial con Prelude: una herramienta de registro y transferencia de vídeos diseñada para lograr una organización multimedia y una introducción de metadatos intuitiva y eficaz. Prelude traduce fácilmente a Adobe Premiere Pro y garantiza que la comunicación y la organización son fluidas a lo largo del proceso de producción del vídeo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Premiere Pro 2020",
         "img": "https://www.adobe.com/content/dam/cc/icons/premiere.svg",
         "des": "Herramientas inteligentes, mejores narraciones. Premiere Pro es el software de edición de vídeos líder del sector para películas, TV y la web. Las herramientas creativas, la integración con otras aplicaciones y servicios y la potencia de Adobe Sensei te permiten crear material de archivo en películas y vídeos de gran calidad. Con Premiere Rush puedes crear y editar nuevos proyectos desde cualquier dispositivo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe Premiere Rush",
         "img": "https://www.adobe.com/content/dam/cc/icons/premiere-rush.svg",
         "des": "¿Hacer videos? Qué prisa. Adobe Premiere Rush es la aplicación de edición de video todo en uno para crear sobre la marcha. Estés donde estés, desde tu teléfono a tu computadora, puedes grabar, editar y compartir videos de alta calidad. Divertido, intuitivo y tan rápido como las redes sociales, es la forma más fácil de protagonizar los feeds de tus seguidores."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Adobe XD",
         "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
         "des": "Diseña como siempre imaginaste. Comparta su historia con diseños que se ven y se sienten como si fueran reales. Estructura alámbrica, anima, crea prototipos, colabora y más: todo está aquí, todo en un solo lugar. Encuentra tu flujo y haz movimientos. Acércate a lo real con funciones diseñadas para cautivar experiencias en todos los niveles. Hemos seleccionado las herramientas más poderosas para que pueda hacer su mejor trabajo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRZKNHCR2J5CS",
         "name": "Microsoft Office 2019 Select Edition",
         "img": "https://developer.team/vault/images/2017/10/04/LDT6.jpg",
         "des": "Es un paquete básico enfocado para estudiantes que no requieren herramientas avanzadas. Este paquete incluye Word, Power Point, Excel y Outlook"
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRZKNHCR2J5CS",
         "name": "Microsoft Office 2016-2019 Professional Plus",
         "img": "https://www.licenciasparasoftware.cl/site_assets/uploads/2020/07/Microsoft-Office-2019-Professional-Plus-2.jpg",
         "des": "Es un paquete completo de Office de clase empresarial. Una completa Suite de productividad que le garantiza las últimas versiones de todas las aplicaciones de escritorio de office en todo momento. Además, con Office Online,puede obtener acceso a los documentos,  editor de archivos, correo electrónico y los calendarios desde prácticamente cualquier dispositivo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Access 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Access_%282018-present%29.svg",
         "des": "Es una versión avanzada de la base de datos con lógica de programación mejorada, integración con Business Data Catalog (BDQ,25 plantillas de calidad. La aplicación web Access es un nuevo tipo de base de datos que usted crea en Access, y luego usa y pública como una aplicación de SharePoint para compartir en un navegador web. Para crear una aplicación web,solo necesita seleccionar el tipo de datos que planea rastrear (contactos,tareas,proyectos,etc.).Access creará una estructura de base de datos con vistas que le permitirán agregar y editar datos. Las herramientas de navegación y los comandos básicos ya están incorporados,por lo que puede comenzar a usar su aplicación web de inmediato."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Excel 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg",
         "des": "Es una herramienta comercial dinámica que le permite tomar las decisiones correctas basadas en el análisis de datos existentes con la ayuda de herramientas y funciones mejoradas. En primer lugar, se resalta la nueva apariencia de Excel. Está libre de detalles innecesarios,pero también está diseñado para lograr rápidamente resultados profesionales. Se han agregado muchas funciones para ayudarle a navegar en una gran cantidad de números y crear atractivas imágenes de datos que conducen a decisiones más  informadas."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft OneNote 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Microsoft_Office_OneNote_%282018%E2%80%93present%29.svg",
         "des": "Es un bloc de notas digital para almacenar y compartir información. Cuando abre OneNote,inmediatamente nota un nuevo diseño que lo ayuda a enfocarse en sus pensamientos e ideas,no en la interfaz.Con la plena integración con la nube,puede liberar su disco duro de los archivos,al tiempo que proporciona acceso a notas y otros datos desde cualquier lugar con prácticamente cualquier dispositivo móvil, tableta o navegador."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Outlook 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
         "des": "Es un cliente de correo electrónico con un conjunto expandido de nuevas herramientas, soporte para varios servicios web y redes sociales.Cuando abre Outlook. inmediatamente notará su nueva apariencia."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft PowerPoint 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg",
         "des": "Es un potente programa para crear presentaciones,incluidas las portátiles,con capacidades avanzadas de transición,soporte para animación,audio y video,incluso en alta definición. Microsoft PowerPoint tiene una interfaz más intuitiva,adaptada a tabletas y teléfonos con pantalla táctil. El modo de presentador se ajusta automáticamente según los parámetros del proyector,e incluso se puede usar en un solo monitor. Los temas ahora tienen varias opciones,lo que simplifica el diseño,y cuando trabajas en conjunto,puedes agregar comentarios para hacer una pregunta o solicitar comentarios."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Publisher 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Microsoft_Office_Publisher_%282019-present%29.svg ",
         "des": "Es una herramienta fácil de usar para crear y crear materiales de marketing y publicaciones de calidad profesional con impresión y distribución por correo. Interfaz mejorada,edición de fotos,navegación de documentos. Microsoft Publisher ofrece nuevas formas de trabajar con fotos, lo que le permite moverlas,intercambiar lugares y agregar alertas visuales a sus publicaciones con nuevas imágenes y efectos de texto."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Visio Viewer 2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg",
         "des": "Microsoft Visio es un software de dibujo vectorial. Ideado específicamente para crear todo tipo de gráficos y diagramas. Las herramientas que lo componen permiten realizar diagramas de oficinas, diagramas de bases de datos, diagramas de flujo de programas, UML, y más, que permiten iniciar al usuario en los lenguajes de programación."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Word 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Office_Word_%282018%E2%80%93present%29.svg",
         "des": "Es un programa de procesamiento de texto que permite a los usuarios crear documentos profesionales como currículum, cartas, hojas de cubierta de fax, reportes, documentos legales, folletos, manuales y más. Es una herramienta eficiente para que los estudiantes, los propietarios de negocios e incluso las personas que trabajan lo tengan en sus computadoras. Microsoft Word es utilizado frecuentemente por los negocios corporativos, agencias comunitarias, y se puede encontrar en la mayoría de las escuelas y universidades. Los estudiantes lo utilizan diariamente y las personas de negocios lo utilizan para crear documentos de oficina importantes."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Visio pro 2016-2019",
         "img": "https://5.imimg.com/data5/AZ/GJ/TM/SELLER-10755944/microsoft-visio-pro-2019-500x500.jpg",
         "des": "Edición flexible. Cambia fácilmente las formas en los diagramas existentes conservando el diseño y las conexiones entre las formas, simplificando así cambiar la apariencia del diagrama sin perder tus avances. Indicadores de presencia en tiempo real. Los indicadores de presencia en tiempo real de Skype for Business en Visio muestran quién está disponible en este momento. También puedes iniciar rápidamente una conversación de IM, voz o video dentro de la aplicación. (Skype for Business se vende por separado.) Edición simultánea en equipo. Descubre quién está trabajando en qué parte del diagrama, obtén notificaciones sobre los cambios y elige cuándo combinar esos cambios en el archivo maestro. Admite distintas fuentes de datos. Visio es compatible con libros de Microsoft Excel, bases de datos de Microsoft Access, listas de Microsoft SharePoint Foundation, bases de datos de Microsoft SQL Server, directorios de Microsoft Exchange Server, información de Azure Active Directory y otras fuentes de datos de OLEDB u ODBC. Creación de diagramas centrados en los datos. Genera organigramas automáticamente a partir de fuentes de datos, tales como Excel, Exchange o Azure Active Directory. Compatible con AutoCAD. Capacidad para importar archivos DWG, incluida la compatibilidad con formato de archivo mejorado."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Microsoft Project Pro 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg",
         "des": "Es una herramienta ayuda a administrar proyectos fácilmente e interactuar con los empleados desde prácticamente en cualquier lugar. Organice su tiempo y no pierda el control de sus proyectos gracias a un sistema único de administración de proyectos diseñado para funcionar sin problemas con otras aplicaciones de Microsoft y servicios en la nube."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "OneDrive for Business 2016-2019",
         "img": "https://logosrated.net/wp-content/uploads/parser/OneDrive-Logo-1.png",
         "des": "Es su biblioteca profesional para almacenar documentos de trabajo y otros archivos. Cuando guarda archivos en OneDrive,solo están disponibles para usted,pero al mismo tiempo, puede compartirlos fácilmente con sus colegas y también verlos desde dispositivos móviles. Sus archivos se almacenarán de forma segura en la nube de SharePoint Online o en los servidores de SharePoint Server de su empresa, según la configuración."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Skype for business 2016-2019",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Skype-for-Business.svg",
         "des": "Es un software que permite que todo el mundo se comunique. Millones de personas y empresas ya usan Skype para hacer llamadas y videollamadas gratis individuales y grupales, enviar mensajes instantáneos y compartir archivos con otras personas que usan Skype."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "FL studio 20",
         "img": "https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png",
         "des": "FL Studio ofrece un espacio de trabajo automatizable centrado en un secuenciador basado en patrones. Su ambiente incluye un soporte avanzado de MIDI e incorpora numerosas utilidades para la edición, mezcla y grabación de audio. Cuando se completa una canción o clip, este puede ser exportado a microsoft WAV o MP3."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Virtual DJ Infinity 2020",
         "img": "https://es.virtualdj.com/images/social/icon.png",
         "des": " Es un software profesional de mezcla musical que simula una interfaz de mezclas. Fue creado por la empresa francesa Atomix Productions y destinado principalmente a DJ 's. Actualmente es uno de los programas más usados en el mundo profesional.Solo tendrás que seleccionar el directorio donde se encuentran los temas, arrastrar uno a cada pista y empezar a reproducir. El programa permite, entre otras características, ajustar y modificar las BPM, hacer loops, scratchs, incluir efectos en las canciones como el extractor de voz, el ajuste de graves o insertar efecto de frenado progresivo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Ableton Live Suite",
         "img": "https://logonoid.com/images/ableton-logo.png",
         "des": "Es un software rápido, fluido y flexible para la creación musical.  Incluyen efectos, instrumentos y otro tipo de funciones creativas, todo lo que necesitas para crear música de cualquier tipo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Traktor Pro",
         "img": "https://i.pinimg.com/originals/ea/1e/b4/ea1eb43fa5816528b2a2848a075e3705.jpg",
         "des": "Nuestro software líder para DJ, utilizado en pubs, discotecas y en los mayores escenarios del mundo. Audio profesional, con un nuevo sistema de deformación del tiempo y un limitador mejorado. Integración avanzada con los controladores TRAKTOR, incluyendo Haptic Drive™, grabador de patrones de Remix Deck y mucho más"
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "VMware Workstation Pro",
         "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
         "des": "VMware Workstation Pro es el hipervisor de escritorio estándar del sector para ejecutar máquinas virtuales en PC con Linux o Windows. Workstation 16 Pro mejora la tecnología que define el estándar ofreciendo compatibilidad con DirectX 11 y gráficos 3D acelerados con OpenGL 4.1, una nueva interfaz de usuario con modo oscuro, compatibilidad con el modo Hyper-V de Windows en hosts Windows 10 versión 2004 y superiores, una nueva interfaz de línea de comandos (CLI) compatible con contenedores y clústeres de Kubernetes («vctl»), compatibilidad con los sistemas operativos Windows y Linux más recientes, y mucho más."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Serato DJ Pro",
         "img": "https://www.pioneerdj.com/-/media/pioneerdj/images/features/software/serato/serato-dj-icon.jpg?h=500&w=500&hash=B28201390080647DA18E97ACE13A697F",
         "des": "Software de DJ profesional. Desde lo desconocido hasta lo más grande, Serato DJ Pro es el software de DJ más popular a nivel mundial. Cuando hablas de Hip-Hop, Dance y todo lo demás, estás mirando el estándar. Fiabilidad sólida como una roca. Serato DJ Pro es conocido por su fiabilidad y los DJ confían en él para ofrecer actuaciones increíbles. Es por eso que impulsa a los mejores artistas del mundo en algunos de los escenarios más importantes. Rendimiento ilimitado. Sea cual sea tu estilo, puedes pinchar con libertad. Su potencial creativo se desbloqueará a través de funciones innovadoras y una interfaz intuitiva. Transmite millones de pistas. Encontrar nueva música ya no es un problema. Ahora puede transmitir todo, desde los sonidos underground más frescos hasta clásicos certificados directamente en Serato DJ Pro."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Magix Vegas Pro",
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png",
         "des": "Magix Vegas Pro 18 Suite combina las funciones más potentes del mercado con una práctica línea temporal, la eficiencia óptima de VEGAS Prepare en la gestión de medios y las asombrosas herramientas de procesamiento y manipulación de contenidos de audio de SOUND FORGE. Con sus avanzadas opciones de inteligencia artificial, esta formidable suite abre horizontes creativos completamente nuevos a sus usuarios y, gracias a la sólida integración de todas sus funciones, garantiza la máxima fluidez, velocidad y rendimiento en todos los procesos de edición. Ofrezca el mejor producto a sus clientes, la tecnología de vanguardia de VEGAS Pro les ayudará a llevar a cabo los proyectos más complejos en el menor tiempo posible; una eficacia insuperable en la organización y desarrollo creativo de todo tipo de proyectos nos avalan."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Avast Premium Security",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEje6DCmHVPs8fYG-OiRkgvNtgf8ADkXspB-mMbiRSq700dPFJ0NH1xn6UIsUcjcbdsxnaWo&usqp=CAc",
         "des": "Avast Premium Security es más que un simple antivirus: es una solución de protección en línea completa para todos sus equipos, teléfonos y tabletas. Protección contra sus mayores enemigos en línea. Avast Premium Security protege contra todas las amenazas en línea, incluidos los sitios web falsificados y el ransomware. Ahora puede realizar compras y operaciones bancarias en línea sin ningún riesgo. Los sitios web falsos o falsificados constituyen uno de los focos de hackeo más antiguos. Avast Premium Security analiza los sitios web en busca de riesgos de seguridad tanto en su PC como en el teléfono móvil: así podrá, por fin, realizar compras y operaciones bancarias en línea de forma segura y en cualquier dispositivo."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "ESET Security",
         "img": "https://d204fp6kl23jzz.cloudfront.net/catalog/product/cache/1764944c93bfb9f85bdba8ef9f05f71a/c/a/caja_fs_1100x1100.png",
         "des": "Protección avanzada contra todo tipo de amenazas. Ideal para usuarios modernos que utilizan Internet para comprar, realizar operaciones bancarias, trabajar y comunicarse.Protege tus contraseñas y datos personales. ESET Internet Security asegura el entorno hogareño completo: información, pagos en línea, contraseñas, dispositivos inteligentes, cámara web y también, a los más pequeños. Protección integral para Internet. Protección multiplataforma. Asegura todos tus dispositivos con una sola licencia. Garantiza tu privacidad. Evita que personas no autorizadas accedan a tu equipo y utilicen tus datos indebidamente. Realiza transacciones online en forma segura. Protege los dispositivos de tu hogar. Controla qué dispositivos se conectan al router de tu hogar, y recibe una alerta si alguien intenta acceder a tu cámara web."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "CCleaner",
         "img": "https://img.utdstc.com/icons/ccleaner.png:200",
         "des": "Acelere y Optimice su PC con CCleaner. Potente limpieza de su PC para su empresa, optimización galardonada para organizaciones, saque más partido de sus terminales, personalice la limpieza según las necesidades de su empresa, aumente la seguridad y cumpla con la normativa"
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "CorelDRAW Graphics Suite 2020",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrq1AWVBuw7n8ahS3t-Jaf1GvFmVLtV1BgAM_On3lDR6qRfFtA-mS5oDAGEg&usqp=CAc",
         "des": "Crea con pasión. Diseñe con propósito. Elimine las barreras creativas con CorelDRAW Graphics Suite 2020. Encuentre todas las herramientas profesionales de ilustración vectorial, diseño, edición de fotografías y tipografía que necesita para crear y completar proyectos de diseño importantes, desde prácticamente cualquier dispositivo. Produzca ilustraciones, letreros, logotipos y más únicos, en Windows o Mac, y sobre la marcha con CorelDRAW.app ,colabore con clientes y colegas mediante CorelDRAW.app para recopilar comentarios de uno o varios revisores. Obtenga resultados excepcionales en menos tiempo, gracias a herramientas muy productivas para cualquier tipo de salida."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Vector Magic",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vector_Magic_logo.svg/1200px-Vector_Magic_logo.svg.png",
         "des": "Convierta fácilmente archivos JPG, PNG, GIF a vectores PDF, SVG, EPS. Prepare sus imágenes rápidamente para imprimirlas, bordar, cortar y más con el mejor trazador automático a todo color de todo el mundo. Vector Magic analiza su imagen y detecta automáticamente la configuración apropiada para vectorizar y luego traza las figuras subyacentes a todo color, por lo que es sumamente fácil comenzar: simplemente cargue su imagen y el resultado estará listo para revisarlo. Naturalmente que puede modificar la configuración autodetectada. Vector Magic ofrece configuraciones que tienen sentido y que los humanos entienden, no solo las máquinas, y se pueden cambiar fácilmente."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Skeychup 2020",
         "img": "https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png",
         "des": "SketchUp. Programa de diseño y modelado en 3D para entornos arquitectónicos, ingeniería civil, videojuegos o películas. El programa es desarrollado y publicado por Google. Permite además, la creación de modelos y objetos 3d partiendo de volúmenes y formas arquitectónicas de un espacio. El software permite texturizar los modelos de una forma rápida y sencilla si cargar mucho estos objetos."
@@ -236,46 +292,55 @@
         "des": "3DS Max es un programa de gráficos por ordenador utilizado para crear modelos 3D, animaciones e imágenes digitales. Es un software de modelado, animación y renderizado en 3D construido y desarrollado para la visualización de juegos y diseños. Es uno de los programas más populares en la industria de gráficos por ordenador y es bien conocido por tener un robusto conjunto de herramientas para artistas 3D. Es sin duda el programa favorito entre los desarrolladores de videojuegos, estudios comerciales de televisión y arquitectos. 3ds Max es propiedad de Autodesk, la misma empresa responsable de programas como Maya y AutoCAD. 3ds Max ayuda a los diseñadores a crear mundos de juegos masivos, producir personajes detallados y personalizar los entornos de construcción. Animar personajes individuales y hacer escenas que contengan a mucha gente. El software les permite simular las propiedades físicas de líquidos como agua, aceite y lava. Además, 3ds Max tiene controladores de animación que los diseñadores pueden crear, modificar y compartir. El software también es muy útil para el diseño de edificios, infraestructura y construcción, así como para el desarrollo de productos y la planificación de la fabricación."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "AutoCAD Civil 3D",
         "img": "https://img.icons8.com/color/452/autodesk-civil-3d.png",
         "des": "Diseña una mejor infraestructura civil con Civil 3D. El software de diseño para ingeniería civil Civil 3D® es compatible con BIM (modelado de información para la construcción) y proporciona características integradas para mejorar los bocetos, el diseño y la documentación de construcción. Los equipos de proyecto utilizan BIM 360 Design para agilizar la coordinación de las entregas, visualizar los cambios y gestionar los problemas y las marcas de revisión, todo ello en un entorno de datos común durante la vida útil del proyecto. Trabaja con los datos de ArcGIS directamente en el modelo de diseño de Civil 3D y asegúrate de que los equipos tengan acceso de forma continua a la información actualizada del proyecto. Usa Civil 3D con otro software de Autodesk."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "AutoCAD 2021",
         "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png",
         "des": "AutoCAD conecta y agiliza los flujos de trabajo de diseño mejor que nunca. AutoCAD acelera los proyectos desde el concepto inicial hasta la finalización con potentes herramientas para diseño y documentación 2D y 3D. Conecte sus ideas de diseño con el mundo real mediante cartografía activa, herramientas de ubicación geográfica y potentes prestaciones nuevas para capturar la realidad. La nueva herramienta de fuente de diseño incorpora la colaboración social al diseño, lo que aumenta la implicación de los participantes en los proyectos."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Lumion Pro",
         "img": "https://lumion.com/wp-content/uploads/company_logos/lumion_logo_2016_twocolors.svg",
         "des": "Olvida lo que sabes acerca del renderizado arquitectónico. Lumion es diferente. No es un complemento ni una tarea paralela al desarrollo y la visualización del diseño. Lumion se integra en el proceso de diseño. Lumion da vida a los renders, haciendo el proceso sencillo y agradable desde el momento en el que se importa el modelo hasta que se renderiza una imagen, vídeo o panorama increíble. Destaca la belleza y la personalidad del proyecto, haciendo que la experiencia del diseño sea visible, mucho antes de que el proyecto esté realmente construido. Renderiza todo lo que puedas imaginar. Con cada presentación de cliente de último minuto, Lumion encaja sin problemas directamente en el proceso de diseño actual, creando un flujo de trabajo único y satisfactorio. "
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "CorelCad",
         "img": "https://www.coreldraw.com/static/cdgs/product_content/corelcad/2020/boxshot-cad-2020.png",
         "des": "El software CAD profesional, asequible y simplificado. Experimente un flujo de trabajo CAD simplificado con las herramientas profesionales que le permiten ahorrar tiempo en CorelCAD ™ 2020, disponible en Windows y macOS, a un precio asequible. La colaboración es sencilla gracias a la compatibilidad total con el formato de archivo .DWG nativo. Aproveche la funcionalidad de dibujo 2D mejorada, las herramientas de modelado 3D avanzadas y la compatibilidad con .STL para elevar la eficiencia del diseño y optimizar la salida."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Corel Aftershot Pro",
         "img": "https://www.aftershotpro.com/static/asp/images/products/aftershot/aftershot-pro-3.png",
         "des": "Descubra el secreto del fotógrafo profesional para la edición de fotografías que ahorra tiempo. Corel AfterShot  Pro 3 es hasta 4 veces más rápido que Adobe Lightroom . Es el editor de fotos que revela su verdadero potencial creativo y lo libera: de altos costos, de suscripciones interminables, de horas dedicadas a editar en su computadora. Importe, procese y imprima más rápido, y vuelva a estar detrás de la cámara donde pertenece con AfterShot Pro 3."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Cinema 4D Studio",
         "img": "https://i.pinimg.com/originals/4b/69/6f/4b696fd5c128bb44d2ea597711f90f7f.png",
         "des": "Fácil de aprender y extremadamente poderoso: Cinema 4D es el paquete perfecto para todos los artistas 3D que desean lograr resultados impresionantes de manera rápida y sin complicaciones. Tanto los principiantes como los profesionales experimentados pueden aprovechar la amplia gama de herramientas y funciones de Cinema 4D para lograr rápidamente resultados sorprendentes. La legendaria confiabilidad de Cinema 4D también lo convierte en la aplicación perfecta para la producción 3D exigente y de ritmo rápido."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Wondershare Filmora Video Editor",
         "img": "https://img.icons8.com/nolan/452/filmora.png",
         "des": "Crea Buenos Videos Fácilmente. Filmora simplifica las funciones avanzadas de edición para ahorrarte tiempo y esfuerzo. Es simple con Filmora X. Menos Tiempo Editando y Más Creando, Filmora reduce la repetición de tareas para que puedas crecer creativamente más rápido. Encuentra la Diversión en Cada Click. La edición debe ser una aventura creativa, y Filmora tiene las herramientas para hacer tu viaje agradable."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Vray for Sketchup",
         "img": "https://www.kindpng.com/picc/m/452-4520060_v-ray-for-sketchup-vray-hd-png-download.png",
         "des": "La solución de visualización definitiva para artistas y diseñadores de SketchUp. V-Ray para SketchUp es un software de renderizado 3D que combina real-time y renderizado fotorealista — todo en SketchUp. Desde principiantes hasta profesionales, V-Ray tiene todas las herramientas que necesita para visualizar sus proyectos de SketchUp de principio a fin."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Wondershare Recovery Pro",
         "img": "https://static.crozdesk.com/web_app_library/providers/logos/000/006/921/original/recoverit-photo-recovery-1559230433-logo.png?1559230433",
         "des": "Recuperación de datos de Recoverit. La seguridad de sus datos y nuestra capacidad de recuperación. La herramienta de recuperación de datos definitiva y profesional es confiable y 100% segura. Más de 1000 formatos de archivo. Apoyamos para restaurar todo tipo de archivos y sistema de archivos, NTFS, FAT, HFS +, APFS sin datos, sin compromiso de cargo. CUALQUIER medio de almacenamiento. Con la herramienta de recuperación de datos de alta tecnología para recuperar datos de todos los dispositivos o medios considerados irrecuperables por otras empresas. Tasa de recuperación alta. Una de las tasas de éxito de recuperación de datos más altas de la industria para recuperar datos de todos los escenarios de pérdida de datos."
