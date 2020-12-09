@@ -161,7 +161,7 @@
 }
 
 .button:nth-child(2){
-   margin:12px 0 15px 0;
+   margin:12px 0 5px 0;
 }
 .button button{
   transition: .3s;
@@ -293,7 +293,6 @@
 }
 
  .licen{
-   height: 570px;
    width:47%;
    margin:15px 6px 15px 6px
    }
@@ -339,7 +338,7 @@
 
 
  .licen{
-   height: 540px;
+   height: 570px;
    width:85%;
    margin:15px 8.5px 15px 8.5px
    }
