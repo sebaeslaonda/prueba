@@ -158,20 +158,22 @@
 .button{
    display:flex;
    flex-direction:column;
-   height:100px;
+   height:200px;
 }
 
 .button:nth-child(2){
-   margin:12px 0 5px 0;
+   margin:12px 0 20px 0;
 }
 .button button{
   transition: .3s;
-  padding: 10px 50px;
-  line-height: normal;                              
+  height: 40px;
+  line-height: normal;
   background:#D73939;
   border:none;
+  width:200px;
+  align-items: center;
+  justify-content: center;
   border-radius: 3px;
-  flex-direction: column;
   color:rgb(255, 255, 255);
   font-size:16.5px;
   cursor: pointer;
@@ -271,7 +273,6 @@
   }
 
   .button button{
-   padding: 8px 40px;
    font-size: 14px;
   }
   .title{
