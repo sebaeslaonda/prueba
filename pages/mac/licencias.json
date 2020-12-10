@@ -1,12 +1,19 @@
-[
-    {
+[{
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "CleanMyMac X",
         "img": "https://cdn2.macpaw.com/images/CleanMyMac-X@4x.png",
         "des": "CleanMyMac X es una solución todo en uno para que tu Mac vaya como la seda. Limpia toneladas y toneladas de archivos inútiles con un solo objetivo: que tu ordenador recupere la velocidad del primer día."
     },
     {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
         "name": "Imyfone Pro",
         "img": "https://rahim-soft.com/wp-content/uploads/2017/08/57398.png",
         "des": "IMyfone Umate Pro le proporcionará las funciones para liberar espacio con un solo clic y borrar todo tipo de datos en su iPhone, iPad e iPod Touch sin ninguna posibilidad de ser recuperado! El programa escaneará su iDevice, luego mostrará los archivos previamente borrados y los archivos personales existentes en su iPhone / iPad / iPod Touch. Puede previsualizarlos y seleccionar los elementos que desea borrar permanentemente. IMyfone Umate Pro le ofrece la posibilidad de escanear su dispositivo iOS, asegúrese de que todos los archivos e información privada están completamente eliminados y no son recuperables. IMyfone Umate Pro ofrece cuatro opciones de borrado de datos: 1- Haga clic en Limpiar, Borrar todos los datos, Borrar archivos borrados y Borrar datos privados con diferentes niveles de limpieza (Bajo, Medio y Alto). Diferentes modelos de borrado de datos que satisfacen sus diferentes necesidades."
+    },
+    {
+        "pay": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82UKWTZR2ML6W",
+        "name": "Quickbooks Desktop Pro",
+        "img": "https://skylinecloudservices.com/media/catalog/product/cache/3/image/1231575b34043b7e2dffc6de70fd7a66/q/b/qb16pro_3d.png",
+        "des": "QuickBooks Desktop Pro te ayuda a organizar las finanzas de tu empresa en un solo lugar para que puedas ser más productivo. Fácil de configurar y usar. Manténgase al tanto de las facturas, administre los gastos, obtenga informes confiables para la época de impuestos e importe sus datos desde una hoja de cálculo."
     }
 ]
